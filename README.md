@@ -23,6 +23,10 @@ Chatpdf is a Streamlit web application that allows you to perform Question and A
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/multidoc_qna.git
-   cd multidoc_qna
+   git clone https://github.com/onk2cell/Chat-PDF-App.git
+   cd Chat-PDF-App
+   
+2. Install the requirements:
+   ```bash
+   pip install requirments.txt
 
