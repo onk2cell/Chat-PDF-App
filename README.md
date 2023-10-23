@@ -29,4 +29,6 @@ Chatpdf is a Streamlit web application that allows you to perform Question and A
 2. Install the requirements:
    ```bash
    pip install requirments.txt
+   
+3. Run the File in useing stremlit run command
 
